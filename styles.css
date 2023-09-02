@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Xavier Marcial Kouissode - Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Xavier Marcial Kouissode</h1>
+        <p>Développeur Web</p>
+    </header>
+    
+    <section class="about">
+        <h2>À propos de moi</h2>
+        <p>Je suis un développeur web passionné par la création d'expériences en ligne exceptionnelles.</p>
+    </section>
+    
+    <section class="experience">
+        <h2>Expérience professionnelle</h2>
+        <ul>
+            <li>
+                <h3>Développeur Web Junior</h3>
+                <p>Nom de l'entreprise - Juillet 2022 à Octobre 2023</p>
+                <p>Travail sur des projets web passionnants et apprentissage des dernières technologies.</p>
+            </li>
+            <!-- Ajoutez d'autres expériences si nécessaire -->
+        </ul>
+    </section>
+    
+    <section class="education">
+        <h2>Formation académique</h2>
+        <ul>
+            <li>
+                <h3>Licence en Informatique</h3>
+                <p>Nom de l'université - 2020</p>
+            </li>
+        </ul>
+    </section>
+    
+    <section class="skills">
+        <h2>Compétences</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p>Contactez-moi : votre@email.com</p>
+    </footer>
+</body>
+</html>
